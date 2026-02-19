@@ -12,9 +12,9 @@ title                    : "Ying Yuan"
 title_separator          : "-"
 name                     : &name "Ying Yuan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yingyuansec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yingyuansec/yingyuansec.github.io" #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ying Yuan (袁颖)"
   pronouns         : # example: "she/her"  
-  bio              : "<i>Postdoc</i><br>EU Marie Curie Fellow<br>Web security, Phishing"
+  bio              : "<i>Postdoc</i><br>EU Marie Curie Fellow<br>Phishing, Machine learning, Cyber security"
   location         : "Rome, Italy"
   employer         : "Sapienza University of Rome"
   uri              : # URL
