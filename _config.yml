@@ -295,6 +295,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
+url: https://yingyuansec.github.io
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
