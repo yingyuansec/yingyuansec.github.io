@@ -4,7 +4,7 @@ authors: Hongliang Zhu, <strong>Ying Yuan</strong>, Yuling Chen, Yaxing Zha, Wan
 collection: publications
 venue: '<i>IEEE Access</i>'
 date: 2019-06-17
-# paperurl: 'http://yingyuansec.github.io/files/usenix24.pdf'
+# paperurl: 'https://yingyuansec.github.io/files/usenix24.pdf'
 # codeurl: "https://github.com/gyNancy/Visualphish_public"
 # permalink: /publication/2024-usenix
 ---

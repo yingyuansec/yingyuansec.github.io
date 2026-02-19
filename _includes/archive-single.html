@@ -39,11 +39,12 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
+        {% if post.collection == 'teaching' %} 
+        <!-- teaching -->
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'talks' %}
-          <h2 class="archive__item-title" itemprop="headline" style="text-decoration: none; border-bottom: none; color: #0077b5;">
-              {{post.title}}
+          <h2 class="archive__item-title" itemprop="headline" style="text-decoration: none !important; border-bottom: none !important; color: #0077b5;">
+              {{ post.title }}
           </h2>
         {% elsif post.collection == 'publications' %}
           <p style="margin-bottom: 0.1em; margin-top: 0;">{{ post.authors }}</p>
