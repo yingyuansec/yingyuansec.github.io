@@ -23,7 +23,7 @@ Feel free to contact me if you would like to share something with me!
 
 What's New
 ======
-- [2/2026] I've been awared as a Marie Skłodowska-Curie European Postdoctoral Fellowship at Imperial College London!
+- [2/2026] I've been awared the Marie Skłodowska-Curie European Postdoctoral Fellowship at Imperial College London!
 - [1/2026] Joined the Program Committee of [ESORICS'26](https://sites.google.com/di.uniroma1.it/esorics2026/home).
   
 <!-- Site-wide configuration
