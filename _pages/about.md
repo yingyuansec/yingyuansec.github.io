@@ -23,7 +23,7 @@ Feel free to contact me if you would like to share something with me!
 
 What's New
 ======
-- [3/2026] Joined the Program Committee of [ACSAC'26] (https://www.acsac.org/).
+- [3/2026] Joined the Program Committee of [ACSAC'26](https://www.acsac.org/).
 - [3/2026] Accepted paper to [IEEE EuroS&P'26](https://eurosp2026.ieee-security.org/)!
 - [3/2026] I began my employment at [Örebro University](https://www.oru.se/) (in Sweden)!
 - [2/2026] I've been awared the Marie Skłodowska-Curie European Postdoctoral Fellowship at Imperial College London!
