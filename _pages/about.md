@@ -15,7 +15,7 @@ Before moving to Italy, I was a master student at Beijing University of Posts an
 
 **Hobby**
 
-I love cooking and exploring flavors from around the world, from Baozi, Hunan and Sichuan cuisine to fresh seafood, basil shrimp spaghetti, chestnut cake, pho, orange chicken, crab cake, and crispy fish and chips... they never fail to make me happy 😆. I also like traveling (or hiking) and have left my footprints in Italy, Iceland, Singapore, Switzerland, Liechtenstein, France, the Netherlands, Croatia, the United States, Monaco, and Czechia... Each journey has brought me beautiful memories! 
+I love cooking and exploring delicious food, from Baozi, Hunan and Sichuan cuisine to fresh seafood, basil shrimp spaghetti, chestnut cake, pho, orange chicken, crab cake, and crispy fish and chips... they never fail to make me happy 😆. I also like traveling (or hiking) and have left my footprints in Italy, Iceland, Singapore, Switzerland, Liechtenstein, France, the Netherlands, Croatia, the United States, Monaco, and Czechia... Each journey has brought me beautiful memories! 
 
 Feel free to contact me if you would like to share something with me!
 
