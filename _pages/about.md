@@ -23,11 +23,11 @@ Feel free to contact me if you would like to share something with me!
 
 What's New
 ======
-- [4/2026] I'll co-chair the workshop [HumSec'26 @ ESORICS2026](https://htctd.github.io/) (Human-targeted Cyber Threats and Defenses). Welcome to submit your papers! *DDL: June 25, 2026*. If you’re interested in *sponsoring* HumSec'26, feel free to reach out!
+- [4/2026] I'll co-organise the workshop [HumSec'26 @ ESORICS2026](https://htctd.github.io/) (Human-targeted Cyber Threats and Defenses). Welcome to submit your papers! *DDL: June 25, 2026*. If you’re interested in *sponsoring* HumSec'26, feel free to reach out!
 - [3/2026] Joined the Program Committee of [ACSAC'26](https://www.acsac.org/).
 - [3/2026] Accepted paper to [IEEE EuroS&P'26](https://eurosp2026.ieee-security.org/)!
 - [3/2026] I began my employment at [Örebro University](https://www.oru.se/) (in Sweden)!
-- [2/2026] I've been awared the Marie Skłodowska-Curie European Postdoctoral Fellowship at Imperial College London!
+- [2/2026] I've been awared the Marie Skłodowska-Curie Fellowship at Imperial College London!
 - [1/2026] Joined the Program Committee of [ESORICS'26](https://sites.google.com/di.uniroma1.it/esorics2026/home).
   
 <!-- Site-wide configuration
