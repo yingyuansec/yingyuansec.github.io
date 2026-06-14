@@ -23,6 +23,7 @@ Feel free to contact me if you would like to share something with me!
 
 What's New
 ======
+- [6/2026] Joined the Program Committee of [USENIX Security'27](https://www.usenix.org/conference/usenixsecurity27).
 - [5/2026] Joined the Program Committee of [AISec'26](https://aisec.cc/).
 - [4/2026] I'll co-organise the workshop [HumSec'26 @ ESORICS2026](https://humsec26.github.io/) (Human-targeted Cyber Threats and Defenses). Welcome to submit your papers! *DDL: June 25, 2026*. If you’re interested in *sponsoring* HumSec'26, feel free to reach out!
 - [3/2026] Joined the Program Committee of [ACSAC'26](https://www.acsac.org/).
