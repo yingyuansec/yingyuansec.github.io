@@ -22,7 +22,7 @@ repository               : "yingyuansec/yingyuansec.github.io" #"academicpages/a
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Ying Yuan (袁颖)"
+  name             : "Ying Yuan"
   pronouns         : # example: "she/her"  
   bio              : "<i>Postdoctoral researcher</i><br>EU Marie Curie Fellow<br>Phishing, Machine learning, Cyber security"
   location         : "Örebro, Sweden"
