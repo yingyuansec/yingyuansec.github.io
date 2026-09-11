@@ -23,6 +23,8 @@ Feel free to contact me if you would like to share something with me!
 
 What's New
 ======
+- [9/2026] Invited to serve as a Session Chair at ESORICS'26.
+- [7/2026] Attend the EuroS&P'26.
 - [6/2026] Joined the Program Committee of [USENIX Security'27](https://www.usenix.org/conference/usenixsecurity27).
 - [5/2026] Joined the Program Committee of [AISec'26](https://aisec.cc/).
 - [4/2026] I'll co-organise the workshop [HumSec'26 @ ESORICS2026](https://humsec26.github.io/) (Human-targeted Cyber Threats and Defenses). 
