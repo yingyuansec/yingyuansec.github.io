@@ -23,6 +23,7 @@ Feel free to contact me if you would like to share something with me!
 
 What's New
 ======
+- [10/2026] I've been selected as a **DAAD AINeT Fellow**!
 - [10/2026] Joined the Program Committee of [IEEE EuroS&P'27](https://eurosp2027.ieee-security.org/index.html) and [IEEE SaTML'27](https://satml.org/).
 - [9/2026] Invited to serve as a Session Chair at ESORICS'26.
 - [7/2026] Attend the EuroS&P'26.
